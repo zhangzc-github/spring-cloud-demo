@@ -12,6 +12,12 @@
     <module>api-commons</module>
     <module>consumer-order80</module>
     <module>eureka-server7001</module>
+    <module>eureka-server7002</module>
+      <module>provider-payment8002</module>
+      <module>provider-zk-payment8003</module>
+    <module>consumer-zk-order80</module>
+      <module>provider-consul-payment8005</module>
+      <module>consumer-consul-order80</module>
   </modules>
   <packaging>pom</packaging>
 
