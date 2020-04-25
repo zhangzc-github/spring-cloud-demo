@@ -1,0 +1,12 @@
+server:
+  port: 80
+
+spring:
+  application:
+    name: order-consul-service
+  cloud:
+    consul:
+      host: 192.168.164.20
+      port: 8500
+      discovery:
+        hostname: 192.168.1.15
