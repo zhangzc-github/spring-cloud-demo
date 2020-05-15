@@ -19,6 +19,8 @@
       <module>provider-consul-payment8005</module>
       <module>consumer-consul-order80</module>
       <module>consumer-openfeign-order80</module>
+      <module>consumer-hystrix-order80</module>
+      <module>provider-hystrix-payment8006</module>
   </modules>
   <packaging>pom</packaging>
 
